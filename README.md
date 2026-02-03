@@ -4,5 +4,7 @@ made end to end car price prediction machine learning model using Linearregressi
 
 How to run:
 
+```
 pip install -r requirements.txt
 streamlit run app.py
+```
